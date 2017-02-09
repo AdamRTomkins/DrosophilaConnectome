@@ -1,0 +1,8 @@
+
+CUNeuParsV1-2.txt:
+nueron_name innv_neuropil mem_model resting_pot reset_pot threshold_pot rfact_period Cm tm
+
+CUSynParsV1-2.txt
+pre-neuron post-neuron neuropil weight type reversal_pot txt tst pv tD tF tLP PosISI  NegISI
+
+
